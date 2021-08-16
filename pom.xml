@@ -70,13 +70,11 @@
 		</dependency> -->
 
 	</dependencies>
+	
 	<distributionManagement>
 	
-    <repository>
-	<id>nexus</id>
-	<name>RELEASE</name>
-	<url>18.177.150.243:8081/repository/maven-releases</url>
-	</repository>
+    
+	
 	<repository>
 	<id>nexus</id>
 	<name>snapshot</name>

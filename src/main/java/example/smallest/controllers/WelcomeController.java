@@ -11,7 +11,7 @@ public class WelcomeController {
 	@RequestMapping(method = RequestMethod.GET, produces = {"application/json"})
 	public @ResponseBody String helloWorld() {
 		
-		//Flux
+		System.out.println("hi , this is for tesing");
 		
 		
 		
